@@ -1,0 +1,4 @@
+.idea
+*out
+*.out
+*.DS_Store
