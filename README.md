@@ -51,24 +51,20 @@ Run `exit` when connected to the container to terminate the session.
 
 # Notes
 
-Notes can be found in markdown format in `./notes`. 
+Lecture notes can be found in markdown format in `./notes`. 
 These notes largely consist of links to the man pages of system calls but sometimes also provide complementary comments and usage examples.
 
 Direct Links:
-* LinuxSystemCalls1 File IO, Processes.md
-* LinuxSystemCalls2 Threads, Mutex, Pipes.md
-* LinuxSystemCalls3 IPC Sockets.md
-* LinuxSystemCalls4 IPC Terminals.md
-* LinuxSystemCalls5 IPC Semaphores, Message Queue, Shared Memory.md
-* LinuxSystemCalls6 Time.md
+* [LinuxSystemCalls1 File IO, Processes.md](https://github.com/mikenoethiger/system-programming/blob/master/notes/LinuxSystemCalls1%20File%20IO%2C%20Processes.md)
+* [LinuxSystemCalls2 Threads, Mutex, Pipes.md](https://github.com/mikenoethiger/system-programming/blob/master/notes/LinuxSystemCalls2%20Threads%2C%20Mutex%2C%20Pipes.md)
+* [LinuxSystemCalls3 IPC Sockets.md](https://github.com/mikenoethiger/system-programming/blob/master/notes/LinuxSystemCalls3%20IPC%20Sockets.md)
+* [LinuxSystemCalls4 IPC Terminals.md](https://github.com/mikenoethiger/system-programming/blob/master/notes/LinuxSystemCalls4%20IPC%20Terminals.md)
+* [LinuxSystemCalls5 IPC Semaphores, Message Queue, Shared Memory.md](https://github.com/mikenoethiger/system-programming/blob/master/notes/LinuxSystemCalls5%20IPC%20Semaphores%2C%20Message%20Queue%2C%20Shared%20Memory.md)
+* [LinuxSystemCalls6 Time.md](https://github.com/mikenoethiger/system-programming/blob/master/notes/LinuxSystemCalls6%20Time.md)
 
 # Exams
 
 You can find both of my exams (autumn semester 2019) in the `./exams` directory.
-
-Direct Links:
-* assessment1.pdf
-* assessment2.pdf
 
 # Collaboration
 
