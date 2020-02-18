@@ -68,5 +68,5 @@ You can find both of my exams (autumn semester 2019) in the `./exams` directory.
 
 # Collaboration
 
-I advocate sharing of knowledge, you are free to fork, edit and redistribute this repository.
+I advocate sharing of knowledge, you are free to fork, edit and distribute this repository.
 Make sure to send me back your changes/additions as a pull request, such that future students can benefit too.
